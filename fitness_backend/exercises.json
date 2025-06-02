@@ -1,0 +1,872 @@
+[
+  {
+    "name": "Squat",
+    "level": "Orta",
+    "equipment": "Vücut Ağırlığı",
+    "sets": 4,
+    "reps": 12,
+    "description": "Vücut ağırlığı ile yapılan bu squat egzersizi, bacak ve kalça kaslarını hedef alır. Denge ve form kontrolü ön plandadır.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/squat_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/squat_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/squat_end.jpg"
+    ]
+  },
+  {
+    "name": "Leg Press",
+    "level": "Başlangıç",
+    "equipment": "Makine",
+    "sets": 3,
+    "reps": 10,
+    "description": "Leg press makinesiyle yapılan bu egzersiz, kuadriseps ve glute kaslarını güçlendirmek için uygundur.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/legpress_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/legpress_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/legpress_end.jpg"
+    ]
+  },
+  {
+    "name": "Kettlebell Goblet Squat",
+    "level": "Orta",
+    "equipment": "Kettlebell",
+    "sets": 3,
+    "reps": 12,
+    "description": "Kettlebell ile yapılan goblet squat, bacak kaslarını çalıştırırken aynı zamanda dengeyi geliştirir.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/gobletsquat_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/gobletsquat_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/gobletsquat_end.jpg"
+    ]
+  },
+  {
+    "name": "Walking Lunge",
+    "level": "İleri",
+    "equipment": "Dambıl",
+    "sets": 3,
+    "reps": 14,
+    "description": "Yürüyerek yapılan bu lunge egzersizi, tek taraflı bacak çalışmasını destekler ve denge gerektirir.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/lunge_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/lunge_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/lunge_end.jpg"
+    ]
+  },
+  {
+    "name": "Romanian Deadlift",
+    "level": "Orta",
+    "equipment": "Barbell",
+    "sets": 4,
+    "reps": 10,
+    "description": "Arka bacak kaslarını ve bel bölgesini güçlendiren bu egzersiz, doğru form ile yapılması önemlidir.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/romaniandl_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/romaniandl_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/romaniandl_end.jpg"
+    ]
+  },
+  {
+    "name": "Bulgarian Split Squat",
+    "level": "İleri",
+    "equipment": "Dambıl",
+    "sets": 3,
+    "reps": 12,
+    "description": "Tek bacak üzerinde yapılan bu egzersiz, denge ve güç gerektirir. Bacak kaslarını izole şekilde çalıştırır.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/bulgariansquat_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/bulgariansquat_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/bulgariansquat_end.jpg"
+    ]
+  },
+  {
+    "name": "Hip Thrust",
+    "level": "Orta",
+    "equipment": "Barbell",
+    "sets": 4,
+    "reps": 12,
+    "description": "Kalça kaslarını hedef alan bu egzersiz, glute kaslarını güçlendirmek için etkilidir.",
+    "rating": 0.0,
+    "muscle": "Kalça",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/hipthrust_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/hipthrust_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/hipthrust_end.jpg"
+    ]
+  },
+  {
+    "name": "Bench Press",
+    "level": "Orta",
+    "equipment": "Barbell",
+    "sets": 4,
+    "reps": 8,
+    "description": "Göğüs kaslarını geliştirmek için temel egzersiz. Barbell ile yapılan bu hareket, üst vücut gücünü artırır.",
+    "rating": 0.0,
+    "muscle": "Göğüs",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/benchpress_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/benchpress_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/benchpress_end.jpg"
+    ]
+  },
+  {
+    "name": "Dumbbell Fly",
+    "level": "Başlangıç",
+    "equipment": "Dambıl",
+    "sets": 3,
+    "reps": 12,
+    "description": "Dambıl ile yapılan bu egzersiz, göğüs kaslarının dış kısmını hedef alır ve kas izolasyonu sağlar.",
+    "rating": 0.0,
+    "muscle": "Göğüs",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/dumbbellfly_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/dumbbellfly_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/dumbbellfly_end.jpg"
+    ]
+  },
+  {
+    "name": "Push-Up",
+    "level": "Başlangıç",
+    "equipment": "Vücut Ağırlığı",
+    "sets": 3,
+    "reps": 15,
+    "description": "Vücut ağırlığı ile yapılan şınav, göğüs, omuz ve kol kaslarını çalıştıran temel bir egzersizdir.",
+    "rating": 0.0,
+    "muscle": "Göğüs",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/pushup_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/pushup_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/pushup_end.jpg"
+    ]
+  },
+  {
+    "name": "Cable Crossover",
+    "level": "Orta",
+    "equipment": "Kablo",
+    "sets": 3,
+    "reps": 12,
+    "description": "Kablo makinesi ile yapılan bu egzersiz, göğüs kaslarının iç kısmını hedef alır ve sürekli gerilim sağlar.",
+    "rating": 0.0,
+    "muscle": "Göğüs",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablecrossover_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablecrossover_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablecrossover_end.jpg"
+    ]
+  },
+  {
+    "name": "Pull-Up",
+    "level": "İleri",
+    "equipment": "Vücut Ağırlığı",
+    "sets": 4,
+    "reps": 8,
+    "description": "Vücut ağırlığı ile yapılan bu egzersiz, sırt kaslarını güçlendirmek için en etkili hareketlerden biridir.",
+    "rating": 0.0,
+    "muscle": "Sırt",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/pullup_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/pullup_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/pullup_end.jpg"
+    ]
+  },
+  {
+    "name": "Bent Over Row",
+    "level": "Orta",
+    "equipment": "Barbell",
+    "sets": 4,
+    "reps": 10,
+    "description": "Barbell ile yapılan bu egzersiz, sırt kaslarını güçlendirir ve duruşu iyileştirir.",
+    "rating": 0.0,
+    "muscle": "Sırt",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/bentoverrow_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/bentoverrow_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/bentoverrow_end.jpg"
+    ]
+  },
+  {
+    "name": "Lat Pulldown",
+    "level": "Başlangıç",
+    "equipment": "Makine",
+    "sets": 3,
+    "reps": 12,
+    "description": "Lat pulldown makinesi ile yapılan bu egzersiz, geniş sırt kaslarını hedef alır ve başlangıç seviyesi için uygundur.",
+    "rating": 0.0,
+    "muscle": "Sırt",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/latpulldown_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/latpulldown_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/latpulldown_end.jpg"
+    ]
+  },
+  {
+    "name": "Seated Cable Row",
+    "level": "Orta",
+    "equipment": "Kablo",
+    "sets": 3,
+    "reps": 12,
+    "description": "Kablo makinesi ile yapılan bu egzersiz, orta sırt kaslarını hedef alır ve kontrollü hareket sağlar.",
+    "rating": 0.0,
+    "muscle": "Sırt",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablerow_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablerow_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablerow_end.jpg"
+    ]
+  },
+  {
+    "name": "Leg Extension",
+    "level": "Başlangıç",
+    "equipment": "Makine",
+    "sets": 3,
+    "reps": 15,
+    "description": "Kuadriseps kaslarını izole şekilde çalıştıran bu makine egzersizi, bacak ön kaslarını hedef alır.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/legextension_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/legextension_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/legextension_end.jpg"
+    ]
+  },
+  {
+    "name": "Standing Calf Raise",
+    "level": "Başlangıç",
+    "equipment": "Makine",
+    "sets": 4,
+    "reps": 20,
+    "description": "Baldır kaslarını geliştirmek için temel egzersiz. Yüksek tekrar sayısı ile yapılır.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/calfraise_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/calfraise_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/calfraise_end.jpg"
+    ]
+  },
+  {
+    "name": "Leg Curl",
+    "level": "Başlangıç",
+    "equipment": "Makine",
+    "sets": 3,
+    "reps": 12,
+    "description": "Hamstring kaslarını izole şekilde çalıştıran bu makine egzersizi, bacak arka kaslarını hedef alır.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/legcurl_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/legcurl_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/legcurl_end.jpg"
+    ]
+  },
+  {
+    "name": "Barbell Curl",
+    "level": "Orta",
+    "equipment": "Barbell",
+    "sets": 4,
+    "reps": 10,
+    "description": "Biceps kaslarını geliştirmek için temel egzersiz. Barbell ile yapılan bu hareket, kol gücünü artırır.",
+    "rating": 0.0,
+    "muscle": "Kol",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/barbellcurl_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/barbellcurl_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/barbellcurl_end.jpg"
+    ]
+  },
+  {
+    "name": "Tricep Pushdown",
+    "level": "Başlangıç",
+    "equipment": "Kablo",
+    "sets": 3,
+    "reps": 12,
+    "description": "Triceps kaslarını hedef alan bu egzersiz, kol arka kaslarını güçlendirir.",
+    "rating": 0.0,
+    "muscle": "Kol",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/triceppushdown_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/triceppushdown_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/triceppushdown_end.jpg"
+    ]
+  },
+  {
+    "name": "Overhead Press",
+    "level": "Orta",
+    "equipment": "Barbell",
+    "sets": 4,
+    "reps": 8,
+    "description": "Omuz kaslarını geliştirmek için temel egzersiz. Barbell ile yapılan bu hareket, üst vücut gücünü artırır.",
+    "rating": 0.0,
+    "muscle": "Omuz",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/overheadpress_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/overheadpress_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/overheadpress_end.jpg"
+    ]
+  },
+  {
+    "name": "Lateral Raise",
+    "level": "Başlangıç",
+    "equipment": "Dambıl",
+    "sets": 3,
+    "reps": 12,
+    "description": "Omuz yan kaslarını hedef alan bu egzersiz, dambıl ile yapılır ve omuz genişliğini artırır.",
+    "rating": 0.0,
+    "muscle": "Omuz",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/lateralraise_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/lateralraise_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/lateralraise_end.jpg"
+    ]
+  },
+  {
+    "name": "Front Raise",
+    "level": "Başlangıç",
+    "equipment": "Dambıl",
+    "sets": 3,
+    "reps": 12,
+    "description": "Omuz ön kaslarını hedef alan bu egzersiz, dambıl ile yapılır ve omuz ön kısmını güçlendirir.",
+    "rating": 0.0,
+    "muscle": "Omuz",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/frontraise_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/frontraise_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/frontraise_end.jpg"
+    ]
+  },
+  {
+    "name": "Seated Calf Raise",
+    "level": "Başlangıç",
+    "equipment": "Makine",
+    "sets": 4,
+    "reps": 20,
+    "description": "Baldır kaslarının alt kısmını hedef alan bu egzersiz, oturarak yapılır ve kas detayını artırır.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/seatedcalfraise_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/seatedcalfraise_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/seatedcalfraise_end.jpg"
+    ]
+  },
+  {
+    "name": "Hamstring Curl",
+    "level": "Başlangıç",
+    "equipment": "Kablo",
+    "sets": 3,
+    "reps": 12,
+    "description": "Hamstring kaslarını kablo makinesi ile çalıştıran bu egzersiz, bacak arka kaslarını hedef alır.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/hamstringcurl_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/hamstringcurl_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/hamstringcurl_end.jpg"
+    ]
+  },
+  {
+    "name": "Dumbbell Curl",
+    "level": "Başlangıç",
+    "equipment": "Dambıl",
+    "sets": 3,
+    "reps": 12,
+    "description": "Biceps kaslarını dambıl ile çalıştıran bu egzersiz, kol ön kaslarını hedef alır.",
+    "rating": 0.0,
+    "muscle": "Kol",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/dumbbellcurl_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/dumbbellcurl_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/dumbbellcurl_end.jpg"
+    ]
+  },
+  {
+    "name": "Tricep Extension",
+    "level": "Başlangıç",
+    "equipment": "Dambıl",
+    "sets": 3,
+    "reps": 12,
+    "description": "Triceps kaslarını dambıl ile çalıştıran bu egzersiz, kol arka kaslarını hedef alır.",
+    "rating": 0.0,
+    "muscle": "Kol",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/tricepextension_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/tricepextension_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/tricepextension_end.jpg"
+    ]
+  },
+  {
+    "name": "Hack Squat",
+    "level": "İleri",
+    "equipment": "Makine",
+    "sets": 4,
+    "reps": 10,
+    "description": "Kuadriseps kaslarını yoğun şekilde çalıştıran bu makine egzersizi, sırt desteği sayesinde daha ağır yüklerle çalışmaya olanak sağlar. Özellikle bacak ön kaslarının alt kısmını hedef alır.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/hacksquat_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/hacksquat_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/hacksquat_end.jpg"
+    ]
+  },
+  {
+    "name": "Smith Machine Squat",
+    "level": "Orta",
+    "equipment": "Smith Makinesi",
+    "sets": 4,
+    "reps": 12,
+    "description": "Smith makinesi ile yapılan bu squat varyasyonu, denge gerektirmeden kuadriseps kaslarını çalıştırır. Özellikle squat formunu geliştirmek isteyenler için idealdir.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/smithsquat_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/smithsquat_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/smithsquat_end.jpg"
+    ]
+  },
+  {
+    "name": "Donkey Calf Raise",
+    "level": "İleri",
+    "equipment": "Makine",
+    "sets": 4,
+    "reps": 25,
+    "description": "Baldır kaslarının üst kısmını hedef alan bu egzersiz, eğimli platformda yapılır. Yüksek tekrar sayısı ile kas dayanıklılığını artırır.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/donkeycalfraise_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/donkeycalfraise_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/donkeycalfraise_end.jpg"
+    ]
+  },
+  {
+    "name": "Single Leg Calf Raise",
+    "level": "Orta",
+    "equipment": "Vücut Ağırlığı",
+    "sets": 3,
+    "reps": 20,
+    "description": "Tek bacak üzerinde yapılan bu egzersiz, baldır kaslarını izole şekilde çalıştırır. Denge ve koordinasyon gerektirir.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/singlecalfraise_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/singlecalfraise_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/singlecalfraise_end.jpg"
+    ]
+  },
+  {
+    "name": "Nordic Hamstring Curl",
+    "level": "İleri",
+    "equipment": "Vücut Ağırlığı",
+    "sets": 3,
+    "reps": 10,
+    "description": "Vücut ağırlığı ile yapılan bu egzersiz, hamstring kaslarını maksimum seviyede çalıştırır. Özellikle sporcularda sıkça kullanılan bir egzersizdir.",
+    "rating": 0.0,
+    "muscle": "Bacak",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/nordichamstring_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/nordichamstring_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/nordichamstring_end.jpg"
+    ]
+  },
+  {
+    "name": "Good Morning",
+    "level": "İleri",
+    "equipment": "Barbell",
+    "sets": 4,
+    "reps": 8,
+    "description": "Hamstring ve bel kaslarını güçlendiren bu egzersiz, doğru form ile yapılması kritik önem taşır. Sırt ve bel sağlığı için önemli bir egzersizdir.",
+    "rating": 0.0,
+    "muscle": "Sırt",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/goodmorning_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/goodmorning_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/goodmorning_end.jpg"
+    ]
+  },
+  {
+    "name": "Preacher Curl",
+    "level": "Orta",
+    "equipment": "Barbell",
+    "sets": 3,
+    "reps": 12,
+    "description": "Biceps kaslarını izole şekilde çalıştıran bu egzersiz, özel bir tezgah üzerinde yapılır. Kasın alt kısmını hedef alır ve form kontrolü sağlar.",
+    "rating": 0.0,
+    "muscle": "Kol",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/preachercurl_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/preachercurl_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/preachercurl_end.jpg"
+    ]
+  },
+  {
+    "name": "Concentration Curl",
+    "level": "Orta",
+    "equipment": "Dambıl",
+    "sets": 3,
+    "reps": 12,
+    "description": "Tek kol ile yapılan bu egzersiz, biceps kasını maksimum seviyede izole eder. Diz üzerinde destek alınarak yapılır.",
+    "rating": 0.0,
+    "muscle": "Kol",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/concentrationcurl_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/concentrationcurl_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/concentrationcurl_end.jpg"
+    ]
+  },
+  {
+    "name": "Skull Crusher",
+    "level": "İleri",
+    "equipment": "Barbell",
+    "sets": 4,
+    "reps": 10,
+    "description": "Triceps kaslarını yoğun şekilde çalıştıran bu egzersiz, yatarak yapılır. Özellikle triceps'in uzun başını hedef alır.",
+    "rating": 0.0,
+    "muscle": "Kol",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/skullcrusher_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/skullcrusher_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/skullcrusher_end.jpg"
+    ]
+  },
+  {
+    "name": "Diamond Push-Up",
+    "level": "Orta",
+    "equipment": "Vücut Ağırlığı",
+    "sets": 3,
+    "reps": 15,
+    "description": "Eller yakın tutularak yapılan bu şınav varyasyonu, triceps kaslarını yoğun şekilde çalıştırır. Göğüs kaslarına da yardımcı olur.",
+    "rating": 0.0,
+    "muscle": "Kol",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/diamondpushup_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/diamondpushup_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/diamondpushup_end.jpg"
+    ]
+  },
+  {
+    "name": "Arnold Press",
+    "level": "İleri",
+    "equipment": "Dambıl",
+    "sets": 4,
+    "reps": 10,
+    "description": "Arnold Schwarzenegger'ın geliştirdiği bu omuz egzersizi, rotasyon hareketi ile omuz kaslarını farklı açılardan çalıştırır.",
+    "rating": 0.0,
+    "muscle": "Omuz",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/arnoldpress_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/arnoldpress_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/arnoldpress_end.jpg"
+    ]
+  },
+  {
+    "name": "Face Pull",
+    "level": "Orta",
+    "equipment": "Kablo",
+    "sets": 3,
+    "reps": 15,
+    "description": "Omuz arka kaslarını hedef alan bu egzersiz, duruş bozukluklarını düzeltmeye yardımcı olur. Özellikle masa başı çalışanlar için önerilir.",
+    "rating": 0.0,
+    "muscle": "Omuz",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/facepull_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/facepull_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/facepull_end.jpg"
+    ]
+  },
+  {
+    "name": "Reverse Fly",
+    "level": "Orta",
+    "equipment": "Dambıl",
+    "sets": 3,
+    "reps": 12,
+    "description": "Omuz arka kaslarını hedef alan bu egzersiz, duruşu iyileştirir ve omuz sağlığını korur. Hafif ağırlıklarla yapılması önerilir.",
+    "rating": 0.0,
+    "muscle": "Omuz",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/reversefly_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/reversefly_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/reversefly_end.jpg"
+    ]
+  },
+  {
+    "name": "Military Press",
+    "level": "İleri",
+    "equipment": "Barbell",
+    "sets": 4,
+    "reps": 8,
+    "description": "Ayakta yapılan bu omuz presi, tüm omuz kaslarını çalıştırırken aynı zamanda core stabilitesini de geliştirir. Ağır yüklerle çalışmaya uygundur.",
+    "rating": 0.0,
+    "muscle": "Omuz",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/militarypress_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/militarypress_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/militarypress_end.jpg"
+    ]
+  },
+  {
+    "name": "Upright Row",
+    "level": "Orta",
+    "equipment": "Barbell",
+    "sets": 3,
+    "reps": 12,
+    "description": "Omuz yan kaslarını ve trapez kaslarını hedef alan bu egzersiz, dikey çekiş hareketi ile yapılır. Omuz genişliğini artırmaya yardımcı olur.",
+    "rating": 0.0,
+    "muscle": "Omuz",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/uprightrow_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/uprightrow_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/uprightrow_end.jpg"
+    ]
+  },
+  {
+    "name": "Cable Lateral Raise",
+    "level": "Orta",
+    "equipment": "Kablo",
+    "sets": 3,
+    "reps": 15,
+    "description": "Kablo makinesi ile yapılan bu yan kaldırma egzersizi, sürekli gerilim sağlar ve omuz yan kaslarını izole şekilde çalıştırır.",
+    "rating": 0.0,
+    "muscle": "Omuz",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablelateralraise_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablelateralraise_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablelateralraise_end.jpg"
+    ]
+  },
+  {
+    "name": "Pike Push-Up",
+    "level": "İleri",
+    "equipment": "Vücut Ağırlığı",
+    "sets": 3,
+    "reps": 12,
+    "description": "Vücut ağırlığı ile yapılan bu egzersiz, handstand push-up'a geçiş için ideal bir egzersizdir. Omuz gücünü ve stabilitesini geliştirir.",
+    "rating": 0.0,
+    "muscle": "Omuz",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/pikepushup_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/pikepushup_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/pikepushup_end.jpg"
+    ]
+  },
+  {
+    "name": "Seated Dumbbell Press",
+    "level": "Orta",
+    "equipment": "Dambıl",
+    "sets": 4,
+    "reps": 10,
+    "description": "Oturarak yapılan bu omuz presi, sırt desteği sayesinde daha ağır yüklerle çalışmaya olanak sağlar. Omuz kaslarını izole şekilde çalıştırır.",
+    "rating": 0.0,
+    "muscle": "Omuz",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/seateddumbbellpress_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/seateddumbbellpress_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/seateddumbbellpress_end.jpg"
+    ]
+  },
+  {
+    "name": "Front Plate Raise",
+    "level": "Başlangıç",
+    "equipment": "Plaka",
+    "sets": 3,
+    "reps": 12,
+    "description": "Plaka ile yapılan bu egzersiz, omuz ön kaslarını hedef alır. Özellikle başlangıç seviyesi için uygun bir egzersizdir.",
+    "rating": 0.0,
+    "muscle": "Omuz",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/frontplateraise_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/frontplateraise_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/frontplateraise_end.jpg"
+    ]
+  },
+  {
+    "name": "Cable Face Pull",
+    "level": "Orta",
+    "equipment": "Kablo",
+    "sets": 3,
+    "reps": 15,
+    "description": "Omuz arka kaslarını ve rotator cuff kaslarını güçlendiren bu egzersiz, omuz sağlığı için önemlidir. Yüksek tekrar sayısı ile yapılır.",
+    "rating": 0.0,
+    "muscle": "Omuz",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablefacepull_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablefacepull_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablefacepull_end.jpg"
+    ]
+  },
+  {
+    "name": "Hanging Leg Raise",
+    "level": "İleri",
+    "equipment": "Vücut Ağırlığı",
+    "sets": 3,
+    "reps": 12,
+    "description": "Bar üzerinde asılı durarak yapılan bu egzersiz, alt karın kaslarını yoğun şekilde çalıştırır. Üst vücut gücü de gerektirir.",
+    "rating": 0.0,
+    "muscle": "Karın",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/hanginglegraise_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/hanginglegraise_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/hanginglegraise_end.jpg"
+    ]
+  },
+  {
+    "name": "Russian Twist",
+    "level": "Orta",
+    "equipment": "Vücut Ağırlığı",
+    "sets": 3,
+    "reps": 20,
+    "description": "Yan karın kaslarını hedef alan bu egzersiz, core stabilitesini geliştirir. Denge ve koordinasyon gerektirir.",
+    "rating": 0.0,
+    "muscle": "Karın",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/russiantwist_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/russiantwist_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/russiantwist_end.jpg"
+    ]
+  },
+  {
+    "name": "Plank",
+    "level": "Başlangıç",
+    "equipment": "Vücut Ağırlığı",
+    "sets": 3,
+    "reps": 60,
+    "description": "Tüm karın kaslarını çalıştıran bu statik egzersiz, core gücünü artırır. Saniye cinsinden yapılır.",
+    "rating": 0.0,
+    "muscle": "Karın",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/plank_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/plank_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/plank_end.jpg"
+    ]
+  },
+  {
+    "name": "Cable Crunch",
+    "level": "Orta",
+    "equipment": "Kablo",
+    "sets": 3,
+    "reps": 15,
+    "description": "Kablo makinesi ile yapılan bu egzersiz, üst karın kaslarını hedef alır. Sürekli gerilim sağlar.",
+    "rating": 0.0,
+    "muscle": "Karın",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablecrunch_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablecrunch_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablecrunch_end.jpg"
+    ]
+  },
+  {
+    "name": "Ab Wheel Rollout",
+    "level": "İleri",
+    "equipment": "Ab Wheel",
+    "sets": 3,
+    "reps": 10,
+    "description": "Ab wheel ile yapılan bu egzersiz, tüm karın kaslarını yoğun şekilde çalıştırır. İleri seviye core gücü gerektirir.",
+    "rating": 0.0,
+    "muscle": "Karın",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/abwheelrollout_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/abwheelrollout_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/abwheelrollout_end.jpg"
+    ]
+  },
+  {
+    "name": "Wrist Curl",
+    "level": "Başlangıç",
+    "equipment": "Dambıl",
+    "sets": 3,
+    "reps": 15,
+    "description": "Ön kol kaslarını geliştiren bu egzersiz, bilek fleksörlerini hedef alır. Hafif ağırlıklarla yapılması önerilir.",
+    "rating": 0.0,
+    "muscle": "Kol",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/wristcurl_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/wristcurl_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/wristcurl_end.jpg"
+    ]
+  },
+  {
+    "name": "Reverse Wrist Curl",
+    "level": "Başlangıç",
+    "equipment": "Dambıl",
+    "sets": 3,
+    "reps": 15,
+    "description": "Ön kol kaslarının arka kısmını hedef alan bu egzersiz, bilek ekstansörlerini güçlendirir.",
+    "rating": 0.0,
+    "muscle": "Kol",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/reversewristcurl_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/reversewristcurl_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/reversewristcurl_end.jpg"
+    ]
+  },
+  {
+    "name": "Farmer's Walk",
+    "level": "Orta",
+    "equipment": "Dambıl",
+    "sets": 3,
+    "reps": 30,
+    "description": "Ağır dambıllarla yürüyerek yapılan bu egzersiz, ön kol gücünü ve dayanıklılığını artırır. Saniye cinsinden yapılır.",
+    "rating": 0.0,
+    "muscle": "Kol",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/farmerswalk_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/farmerswalk_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/farmerswalk_end.jpg"
+    ]
+  },
+  {
+    "name": "Incline Bench Press",
+    "level": "Orta",
+    "equipment": "Barbell",
+    "sets": 4,
+    "reps": 10,
+    "description": "Eğimli tezgah üzerinde yapılan bu egzersiz, göğüs üst kaslarını hedef alır. Omuz kaslarına da yardımcı olur.",
+    "rating": 0.0,
+    "muscle": "Göğüs",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/inclinebenchpress_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/inclinebenchpress_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/inclinebenchpress_end.jpg"
+    ]
+  },
+  {
+    "name": "Decline Bench Press",
+    "level": "İleri",
+    "equipment": "Barbell",
+    "sets": 4,
+    "reps": 8,
+    "description": "Negatif eğimli tezgah üzerinde yapılan bu egzersiz, göğüs alt kaslarını hedef alır. Daha ağır yüklerle çalışmaya uygundur.",
+    "rating": 0.0,
+    "muscle": "Göğüs",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/declinebenchpress_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/declinebenchpress_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/declinebenchpress_end.jpg"
+    ]
+  },
+  {
+    "name": "Cable Fly",
+    "level": "Orta",
+    "equipment": "Kablo",
+    "sets": 3,
+    "reps": 12,
+    "description": "Kablo makinesi ile yapılan bu egzersiz, göğüs kaslarının iç kısmını hedef alır. Sürekli gerilim sağlar.",
+    "rating": 0.0,
+    "muscle": "Göğüs",
+    "images": [
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablefly_start.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablefly_middle.jpg",
+      "https://res.cloudinary.com/deqntg1ta/image/upload/v1/cablefly_end.jpg"
+    ]
+  }
+]

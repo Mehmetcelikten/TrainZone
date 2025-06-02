@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "disabled",
+    "cmake.sourceDirectory": "/Users/mehmetcelikten/development/untitled/linux"
+}
