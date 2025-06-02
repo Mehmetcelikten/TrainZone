@@ -1,16 +1,37 @@
-# untitled
+# 🏋️‍♂️ TrainZone
 
-A new Flutter project.
+**Kas grubu bazlı egzersiz mobil uygulaması**  
+Flutter + Node.js (Express) + MongoDB mimarisiyle geliştirilmiş tam entegre bir fitness uygulaması.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- Kas haritasına göre egzersiz listesi
+- Kayıt / Giriş sistemi (JWT ile)
+- Favori egzersiz listesi
+- Egzersiz planı oluşturma
+- Otomatik dengeli egzersiz önerisi
+- Flutter frontend + Node.js backend entegrasyonu
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧩 Teknolojiler
+
+| Katman      | Teknoloji         |
+|-------------|-------------------|
+| Frontend    | Flutter            |
+| Backend     | Node.js, Express   |
+| Veritabanı  | MongoDB Atlas      |
+| Auth        | JWT                |
+| Diğer       | REST API, Mongoose |
+
+---
+
+## 📲 Mobil Uygulama (Flutter)
+
+### Kurulum
+
+```bash
+flutter pub get
+flutter run
